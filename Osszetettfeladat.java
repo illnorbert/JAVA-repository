@@ -20,7 +20,7 @@ public class osszetettfeladat {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("\n ÖSSZETETT FELADATSOR\nAB 113C");
+        System.out.println("\n ÖSSZETETT FELADATSOR\nIN 113C");
         Scanner bemenet = new Scanner(System.in);
         char valasz = 0;
         do{
